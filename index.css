@@ -1,4 +1,8 @@
-p,h {
+*{
+  background-color:
+}
+
+p,h1,ol{
   color:white;
 }
 
@@ -6,32 +10,50 @@ p,h {
   background-color:grey;
  
 }
+
 #logo{
-  background-color:#27877e;
+  background-color:black;
+  float:left;
+  width:77px;
+  height:53px;
   
 }
 
-#link{
-  background-color:#8c7126;
-  
+#name{
+  background-color:#257b8a;
+  height:53px;
+  text-align:center;
 }
 
 #container1{
- background-color:grey;
+ background-color:;
   
 }
 
 #text1{
-  background-color:#751414;
-  
+  background-color:#297c8c;
+  text-align:center;
 }
 
 #article1{
-  background-color:#143b75;
+  background-color:#296b8c;
+  
   
 }
 
 #container2{
   backgroud-color:#751449;
+  
+}
+
+#text2{
+  background-color:#297c8c;
+  text-align:center;
+  
+}
+
+#list{
+  background-color:#296b8c;
+  width:10%;
   
 }
