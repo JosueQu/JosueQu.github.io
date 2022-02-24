@@ -1,8 +1,16 @@
 *{
-  background-color:
+  font-family: 'Inconsolata', monospace;
 }
 
-p,h1,ol{
+h1, p {
+  padding:20px;
+}
+
+body {
+  background-color:#184952;
+}
+
+p,h1,h2,ol{
   color:white;
 }
 
@@ -14,15 +22,19 @@ p,h1,ol{
 #logo{
   background-color:black;
   float:left;
-  width:77px;
-  height:53px;
-  
+  width:120px;
+  height:82px;
+  border:3px solid black;
 }
 
 #name{
-  background-color:#257b8a;
-  height:53px;
+  background-color:#2595a8;
+  height:88px;
   text-align:center;
+  
+}
+#name h2 {
+  padding-top:30px;
 }
 
 #container1{
@@ -54,6 +66,6 @@ p,h1,ol{
 
 #list{
   background-color:#296b8c;
-  width:10%;
+  
   
 }
