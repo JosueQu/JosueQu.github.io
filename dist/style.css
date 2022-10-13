@@ -1,0 +1,72 @@
+*{
+  font-family: 'Inconsolata', monospace;
+}
+
+body{
+  background-color: #bbbbbb;
+}
+
+h1,p {
+  padding:10px;
+  text-aling:center;
+}
+
+head{
+  
+}
+
+h1,h2,p{
+  color:black;
+}
+
+#header1{
+  background-color:white;
+}
+
+#logo img{
+  background-color:black;
+  float:left;
+  width:120px;
+  height:82px;
+  border:3px solid black;
+}
+
+#name h1{
+   background-color:white;
+  height:68px;
+  text-align:center;
+}
+
+#container1 {
+  background-color:white;
+}
+
+#text1{
+  text-align:center;
+  
+}
+
+#article1 {
+   text-align:center;
+}
+
+#container2{
+  background-color:white;
+}
+
+#article2{
+  text-align:center;
+}
+
+#information{
+  text-align:center;
+}
+
+
+#video{
+  text-align:center;
+}
+
+#fooater{
+  text-align:center;
+}
